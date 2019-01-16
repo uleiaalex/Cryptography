@@ -1,0 +1,14 @@
+c:\users\ranzy\source\repos\CezarN\CezarN\bin\Debug\CezarN.exe.config
+c:\users\ranzy\source\repos\CezarN\CezarN\bin\Debug\CezarN.exe
+c:\users\ranzy\source\repos\CezarN\CezarN\bin\Debug\CezarN.pdb
+c:\users\ranzy\source\repos\CezarN\CezarN\obj\Debug\CezarN.csprojAssemblyReference.cache
+c:\users\ranzy\source\repos\CezarN\CezarN\obj\Debug\CezarN.csproj.CoreCompileInputs.cache
+c:\users\ranzy\source\repos\CezarN\CezarN\obj\Debug\CezarN.exe
+c:\users\ranzy\source\repos\CezarN\CezarN\obj\Debug\CezarN.pdb
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\bin\Debug\CezarN.exe.config
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\bin\Debug\CezarN.exe
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\bin\Debug\CezarN.pdb
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\obj\Debug\CezarN.csprojAssemblyReference.cache
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\obj\Debug\CezarN.csproj.CoreCompileInputs.cache
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\obj\Debug\CezarN.exe
+C:\Users\RanZY\Desktop\Oros\CezarN\CezarN\obj\Debug\CezarN.pdb
