@@ -1,0 +1,7 @@
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\bin\Debug\Francis Bacon Cipher.exe.config
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\bin\Debug\Francis Bacon Cipher.exe
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\bin\Debug\Francis Bacon Cipher.pdb
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\obj\Debug\Francis Bacon Cipher.csprojAssemblyReference.cache
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\obj\Debug\Francis Bacon Cipher.csproj.CoreCompileInputs.cache
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\obj\Debug\Francis Bacon Cipher.exe
+C:\Users\RanZY\source\repos\Francis Bacon Cipher\Francis Bacon Cipher\obj\Debug\Francis Bacon Cipher.pdb
